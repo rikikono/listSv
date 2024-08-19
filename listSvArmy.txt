@@ -1,1 +1,1 @@
-Mobi Army2 Me:sv.army2.me:19149
+Mobi Army2 Me:sv.army2.me:19149,LOCALHOST:localhost:19149
